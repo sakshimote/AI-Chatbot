@@ -18,3 +18,5 @@
 * Explored various plugins: Setup Chatbot, Customize Plugin, and Advanced Features.
 
 * Finally deployed a basic but useful bot to a wordpress site for assistance in a flower shop.
+You can try the bot at https://web-chat.global.assistant.watson.cloud.ibm.com/preview.html?region=eu-gb&integrationID=646737ea-fbb7-426c-a99f-1bb76b405c8a&serviceInstanceID=20c4838c-fa32-4a30-b771-13b1a1fe32ae
+
